@@ -294,7 +294,7 @@ MIT License — Copyright (c) 2025 Samah BOUDALLAA
 
 <div align="center">
 
-Fait avec pour les étudiants ID d'EST El Kelaa · Bon courage pour les examens ! 🎓
+Fait avec pour les étudiants ID d'EST El Kelaa · Bon courage pour les examens ! 
 
  **Star ce repo si ce guide t'a aidé !** 
 
